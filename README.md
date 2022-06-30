@@ -2,4 +2,5 @@
 
 Ignore this, this means nothing.
 Nothing means this, this ignore.
-This should conflict
+Hey a new line
+This shouldn't conflict
